@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    
+    <title>GitHub Adblock Filter List Weekly Trending Repositories</title>
+    <description>Weekly Trending Repositories of Adblock Filter List on GitHub</description>
+    
+    <pubDate>Sat, 07 Nov 2026 06:49:14 GMT</pubDate>
+    <link>https://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>uBlockOrigin/uAssets</title>
+      <link>https://github.com/uBlockOrigin/uAssets</link>
+      <description>&lt;p&gt;Filter lists for uBlock Origin &amp; uBlock Origin Lite&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/8e337246a05fb852204b35d4ee571eb8105e4e1af9e6c616e23f403f6819fc8b/uBlockOrigin/uAssets" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>Stevoisiak/Stevos-AI-Blocklist</title>
+      <link>https://github.com/Stevoisiak/Stevos-AI-Blocklist</link>
+      <description>&lt;p&gt;A filter list that hides website features which use Generative AI &amp; content labeled as AI Generated.&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/6dda91d0e6dea2433a0a8767a64bf91434fa66085bfdd6065eebf958779d668e/Stevoisiak/Stevos-AI-Blocklist" medium="image" />
+      
+    </item>
+    
+    <item>
+      <title>AdguardTeam/AdGuardSDNSFilter</title>
+      <link>https://github.com/AdguardTeam/AdGuardSDNSFilter</link>
+      <description>&lt;p&gt;AdGuard DNS filter&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://mshibanami.github.io/GitHubTrendingRSS/assets/icons/link.png&quot; width=&quot;20&quot; height=&quot;20&quot; alt=&quot;link&quot; style=&quot;margin: 0 8px 0 0; padding: 0; display: inline-block; vertical-align: middle;&quot; /&gt;&lt;a href=&quot;https://adguard-dns.io/&quot;&gt;https://adguard-dns.io/&lt;/a&gt;&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/5cc5e600946cc074fdc126f0c41e41cc3e4c6eccce202d9b56fcfd9e8bd98bbc/AdguardTeam/AdGuardSDNSFilter" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>
