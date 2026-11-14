@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    
+    <title>GitHub Vim Snippet Weekly Trending Repositories</title>
+    <description>Weekly Trending Repositories of Vim Snippet on GitHub</description>
+    
+    <pubDate>Sat, 14 Nov 2026 07:36:12 GMT</pubDate>
+    <link>https://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>fmz200/wool_scripts</title>
+      <link>https://github.com/fmz200/wool_scripts</link>
+      <description>&lt;p&gt;收集一些Loon、Surge、QuantumultX、ShadowRocket、Egern的配置与去广告规则。&lt;/p&gt;&lt;hr&gt;</description>
+      
+      <media:content url="https://opengraph.githubassets.com/2e3374c7adfd5394f0d41261869fe970e7a448ddbe90359cfa308de94df8376a/fmz200/wool_scripts" medium="image" />
+      
+    </item>
+    
+  </channel>
+</rss>
